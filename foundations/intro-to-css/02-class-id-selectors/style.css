@@ -1,0 +1,19 @@
+.odd {
+    background-color: rgb(226, 114, 133);
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+#sec_element {
+    color: rgb(52, 52, 135);
+    font-size: 36px;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#four_elmt {
+    background-color: rgb(80, 228, 80);
+    font-size: 24px;
+    font-weight: bold;
+}
