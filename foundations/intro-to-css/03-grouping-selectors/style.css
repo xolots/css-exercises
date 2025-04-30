@@ -1,0 +1,15 @@
+.clickme {
+    background-color: black;
+    color: white;
+
+}
+
+.clickme2 {
+    background-color: yellow;
+}
+
+.clickme,.clickme2 {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+
+}
